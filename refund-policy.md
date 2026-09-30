@@ -1,7 +1,8 @@
 # Refund and Cancellation Policy — LLM Context & Usage Meter
 
 **Effective date:** 2026-09-30  
-**Publisher:** Vojtěch Törvenyi  
+**Publisher:** Vojtěch Törvenyi
+**Business Registration Number (IČO):** 30085900
 **Address:** Na Třísle 126, 53002 Pardubice, Czech Republic
 **Contact:** valaritas.software@protonmail.com
 
