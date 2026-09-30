@@ -125,4 +125,4 @@ provider will accept a prompt or preserve response quality.
 
 See the repository's published license, privacy policy, terms, refund policy,
 support information, and third-party notices for the applicable conditions
-on https://valarites.github.io/llm-context-meter-legal.
+on https://valarites.github.io/llm-context-and-usage-meter.
