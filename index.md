@@ -100,3 +100,4 @@ support information, and third-party notices for the applicable conditions.
 * [Refund and Cancellation Policy](refund-policy)
 * [Support & FAQ](support)
 * [Third-Party Notices](third-party-notices)
+* [License](license.md)
