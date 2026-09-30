@@ -74,26 +74,6 @@ Install the published extension from the Chrome Web Store. On first use,
 review the local-processing disclosure and grant consent before the meter
 reads supported chat content.
 
-For local development:
-
-```bash
-npm install
-npm test
-npm run build
-```
-
-Then open `chrome://extensions`, enable **Developer mode**, choose **Load
-unpacked**, and select the generated `dist/` directory.
-
-To create a release archive:
-
-```bash
-npm run package
-```
-
-Upload the generated `llm-context-meter-v1.0.0.zip` archive to the Chrome Web
-Store. The archive contains the built extension and a single root
-`manifest.json`.
 
 ## Estimates and limitations
 
@@ -107,19 +87,6 @@ extension reports confidence levels and allows manual model selection where
 automatic detection is uncertain. Do not use the meter as a guarantee that a
 provider will accept a prompt or preserve response quality.
 
-## Permissions
-
-- **Storage** stores settings, consent, snapshots, aggregate history, and
-  cached subscription status locally.
-- **Active tab** lets the popup read the current tab's meter state and trigger
-  user-requested actions.
-- **Notifications** displays threshold warnings.
-- **Clipboard write** copies a generated summary when the user requests the
-  Summarize & Continue workflow; clipboard contents are not read.
-- **Host permissions** allow the content script to operate on supported LLM
-  pages and read visible conversation content locally.
-- **ExtensionPay access** allows hosted checkout, subscription management, and
-  paid-status verification.
 
 ## License and support
 
