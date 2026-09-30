@@ -5,3 +5,4 @@
 * [Refund and Cancellation Policy](refund-policy)
 * [Support & FAQ](support)
 * [Third-Party Notices](third-party-notices)
+* [License](license)
