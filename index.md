@@ -95,9 +95,9 @@ support information, and third-party notices for the applicable conditions.
 
 # LLM Context & Usage Meter — Legal & Support
 
-* [Privacy Policy](privacy-policy)
-* [Terms of Service](terms-of-service)
-* [Refund and Cancellation Policy](refund-policy)
-* [Support & FAQ](support)
-* [Third-Party Notices](third-party-notices)
+* [Privacy Policy](privacy-policy.md)
+* [Terms of Service](terms-of-service.md)
+* [Refund and Cancellation Policy](refund-policy.md)
+* [Support & FAQ](support.md)
+* [Third-Party Notices](third-party-notices.md)
 * [License](license.md)
