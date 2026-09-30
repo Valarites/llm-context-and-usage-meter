@@ -1,6 +1,6 @@
 # Refund and Cancellation Policy — LLM Context & Usage Meter
 
-****Effective date:** 2026-09-30  
+**Effective date:** 2026-09-30  
 **Publisher:** Vojtěch Törvenyi  
 **Address:** Na Třísle 126, 53002 Pardubice, Czech Republic
 **Contact:** valaritas.software@protonmail.com
