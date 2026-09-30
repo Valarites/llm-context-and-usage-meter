@@ -1,11 +1,11 @@
 # Privacy Policy — LLM Context & Usage Meter
 
-**Effective date:** 2026-09-30
-**Publisher & Data Controller:** Vojtěch Törvenyi
-**Business Registration Number (IČO):** 30085900
-**Address:** Na Třísle 126, 53002 Pardubice, Czech Republic
-**Contact:** valaritas.software@protonmail.com
-**Public policy URL:** https://valarites.github.io/llm-context-and-usage-meter/privacy-policy
+**Effective date:** 2026-09-30  
+**Publisher & Data Controller:** Vojtěch Törvenyi  
+**Business Registration Number (IČO):** 30085900  
+**Address:** Na Třísle 126, 53002 Pardubice, Czech Republic  
+**Contact:** valaritas.software@protonmail.com  
+**Public policy URL:** https://valarites.github.io/llm-context-and-usage-meter/privacy-policy  
 
 This policy explains how LLM Context & Usage Meter (the “Extension”) handles information.
 
